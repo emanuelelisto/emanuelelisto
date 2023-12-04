@@ -39,6 +39,11 @@ Always on the lookout for new challenges and learning opportunities, I am open t
 
 Follow my learning journey here on GitHub, and feel free to reach out for discussions, ideas, or interesting projects! 🚀✨
 
+#### Connect with me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/Lambda_H3m4)
+
+
 
 <!--
 **emanuelelisto/emanuelelisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
