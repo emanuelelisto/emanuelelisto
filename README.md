@@ -1,4 +1,3 @@
-User
 ### Hi there! 👋
 
 I'm **Emanuele Listo**, a Computer Science student at the University of Catania. Currently immersed in the fascinating world of computing, I enthusiastically explore various areas, from game development to cybersecurity and cryptography.
@@ -13,11 +12,23 @@ I'm **Emanuele Listo**, a Computer Science student at the University of Catania.
 - 🔐 Delving into the challenges of cybersecurity, ensuring digital security is a top priority.
 - 🌐 Embracing the world of cryptography to safeguard privacy and secure digital communications.
 
+#### My Toolbox:
+
+![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Tool-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Tool-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![NeoVim](https://img.shields.io/badge/Tool-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+#### Languages I'm Learning:
+
+![Rust](https://img.shields.io/badge/Rust-Learning-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
+![C++](https://img.shields.io/badge/C++-Learning-yellow)
+
 #### My Programming Languages:
 
-![C++](https://img.shields.io/badge/C++-Beginner-orange)
-![Python](https://img.shields.io/badge/Python-Beginner-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![C](https://img.shields.io/badge/C-Intermediate-blue)
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-white)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-black)
@@ -27,6 +38,7 @@ I'm **Emanuele Listo**, a Computer Science student at the University of Catania.
 Always on the lookout for new challenges and learning opportunities, I am open to collaborations and knowledge exchange within the developer and tech community.
 
 Follow my learning journey here on GitHub, and feel free to reach out for discussions, ideas, or interesting projects! 🚀✨
+
 
 <!--
 **emanuelelisto/emanuelelisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
