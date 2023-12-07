@@ -11,6 +11,7 @@ Currently immersed in the fascinating world of computing, I enthusiastically exp
 ![VSCode](https://img.shields.io/badge/Tool-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Tool-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/Tool-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Tool-Linux-57A143?style=flat-square&logo=linux&logoColor=white)
 
 
 
