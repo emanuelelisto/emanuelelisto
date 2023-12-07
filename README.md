@@ -1,11 +1,11 @@
-### Hi there! 👋
+### Hi I'm Hema! 👋
 
-I'm **Emanuele Listo**, a Computer Science student at the University of Catania. Currently immersed in the fascinating world of computing, I enthusiastically explore various areas, from game development to cybersecurity and cryptography.
+Computer Science student at the [University of Catania](https://www.unict.it/). 
+Currently immersed in the fascinating world of computing, I enthusiastically explore various areas, from game development to cybersecurity and cryptography.
 
 - 🎓 Student at the :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]   🐘
 - 💻 Passionate about game development, cybersecurity, and cryptography
 - 🐧 Linux user
-[siggraph]: https://siggraph.org
 #### What I'm up to:
 
 - 🕹️ Exploring new horizons in game development, experimenting with game engines, and diving into innovative programming languages.
