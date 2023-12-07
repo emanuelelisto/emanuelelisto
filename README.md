@@ -6,7 +6,7 @@ Currently immersed in the fascinating world of computing, I enthusiastically exp
 ---
 #### My Toolbox:
 
-![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Tool-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Tool-Vim-019733?style=flat-square&logo=vim&logoColor=white)
