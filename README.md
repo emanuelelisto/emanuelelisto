@@ -3,6 +3,7 @@
 Computer Science student at the [University of Catania](https://www.unict.it/).
 Currently immersed in the fascinating world of computing, I enthusiastically explore various areas, from game development to cybersecurity and cryptography.
 
+---
 #### My Toolbox:
 
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
