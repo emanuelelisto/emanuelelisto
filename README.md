@@ -12,19 +12,6 @@ Currently immersed in the fascinating world of computing, I enthusiastically exp
 ![Vim](https://img.shields.io/badge/Tool-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/Tool-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-#### Languages I'm Learning:
-
-![Rust](https://img.shields.io/badge/Rust-Learning-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
-![Python](https://img.shields.io/badge/Python-Learning-yellow)
-![C++](https://img.shields.io/badge/C++-Learning-yellow)
-
-#### My Programming Languages:
-
-![C](https://img.shields.io/badge/C-Intermediate-blue)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-white)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-black)
-
 
 
 
