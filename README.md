@@ -1,6 +1,6 @@
 ### Hi I'm Hema! 👋
 
-Computer Science student at the [University of Catania](https://www.unict.it/). 
+Computer Science student at the [University of Catania](https://www.unict.it/).
 Currently immersed in the fascinating world of computing, I enthusiastically explore various areas, from game development to cybersecurity and cryptography.
 
 #### My Toolbox:
@@ -25,10 +25,6 @@ Currently immersed in the fascinating world of computing, I enthusiastically exp
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-black)
 
 
-
-#### Connect with me:
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/Lambda_H3m4)
 
 
 
