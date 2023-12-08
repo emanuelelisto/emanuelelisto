@@ -7,7 +7,7 @@ CS student at 🐘[University of Catania](https://www.unict.it/)
 * 🌍  I'm based in 🌋Catania, Sicily
 * 🧠  I'm learning cryptography, OS Development, algorithms and data structures  
 * 🤝  I'm open to collaborating on cybersecurity project and game development
-* 🄯  Open Source enthusiast
+* 🔓  🄯pen Source enthusiast
 
 ### Skills
 <p align="left"> 
