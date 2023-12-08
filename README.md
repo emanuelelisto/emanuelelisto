@@ -1,8 +1,4 @@
-<figure>
-  <img src="bocchi.gif" alt="bocchi">
-  <figcaption>
-
-### Hi I'm Hema! 👋 
+![bocchi](bocchi.gif) ### Hi I'm Hema! 👋 
 
 Computer Science student at the [University of Catania](https://www.unict.it/).
 Currently immersed in the fascinating world of computing, I enthusiastically explore various areas, from game development to cybersecurity and cryptography.
@@ -16,6 +12,4 @@ Currently immersed in the fascinating world of computing, I enthusiastically exp
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-57A143?style=flat-square&logo=linux&logoColor=white)
 
-  </figcaption>
-</figure>
 
