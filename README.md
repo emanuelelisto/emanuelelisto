@@ -23,7 +23,10 @@ CS student at [University of Catania](unict.it)
 
 ### Socials
 <a href="https://twitter.com/Lambda_H3m4">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" alt="x" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="45" height="45"/>
+</a>
+<a href="https://discord.com/channels/@hem4_">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord" width="45" height="45"/>
 </a>
 
 
