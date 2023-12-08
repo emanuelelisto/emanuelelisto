@@ -7,7 +7,7 @@ CS student at [University of Catania](unict.com)
 * 🌍  I'm based in Catania
 * 🖥️  See my portfolio at [My site](http://adadssaf)
 * ✉️  You can contact me at [emanuelelisto@proton.me](mailto:emanuelelisto@proton.me)
-* 🧠  I'm learning cryptography, backend dev
+* 🧠  I'm learning cryptography, backend dev 
 * 🤝  I'm open to collaborating on cybersecurity project,
 * ⚡  asdasdad
 
