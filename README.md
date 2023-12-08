@@ -20,26 +20,7 @@ CS student at [University of Catania](unict.com)
 ### Socials
 ### Socials
 
-<p align="left">
-  <a href="https://discord.com/users/kjadjadkjadj" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.github.com/emanuelelisto" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/jkdsajdkajdka" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.stackoverflow.com/users/djkajdkjadkja" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.x.com/jadjadkjad" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.youtube.com/@jkasdkjadjdj" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-  </a>
-</p>
+
 
 
 ### Badges
