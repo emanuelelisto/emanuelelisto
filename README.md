@@ -1,7 +1,7 @@
 Hi 👋 My name is Emanuele Listo
 ===============================
 
-CS student
+CS student at [University of Catania](unict.com)
 ----------
 
 * 🌍  I'm based in Catania
