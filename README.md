@@ -1,4 +1,5 @@
-![bocchi](bocchi.gif) ### Hi I'm Hema! 👋 
+![bocchi](bocchi.gif) 
+### Hi I'm Hema! 👋 
 
 Computer Science student at the [University of Catania](https://www.unict.it/).
 Currently immersed in the fascinating world of computing, I enthusiastically explore various areas, from game development to cybersecurity and cryptography.
