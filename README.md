@@ -26,6 +26,7 @@ CS student at [University of Catania](unict.it)
 <a href="https://twitter.com/Lambda_H3m4">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="45" height="45"/>
 </a>
+</>
 </a>
 <a href="https://twitter.com/Lambda_H3m4">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
