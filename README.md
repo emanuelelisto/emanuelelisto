@@ -5,7 +5,6 @@ CS student at 🐘[University of Catania](https://www.unict.it/)
 ----------
 
 * 🌍  I'm based in neet-world
-* 🖥️  See my portfolio at [My site](http://adadssaf)
 * 🧠  I'm learning cryptography, OS Development, algorithms and data structures  
 * 🤝  I'm open to collaborating on cybersecurity project and game development
 * ⚡  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris feugiat vitae justo ac porttitor. 
