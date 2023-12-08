@@ -22,8 +22,8 @@ CS student at [University of Catania](unict.it)
 </a></p>
 
 ### Socials
-<a href="https://it.wikipedia.org/wiki/C_(linguaggio_di_programmazione)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<a href="https://twitter.com/Lambda_H3m4">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="45" height="45"/>
 </a>
 
 
