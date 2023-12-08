@@ -13,7 +13,7 @@ Currently immersed in the fascinating world of computing, I enthusiastically exp
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-57A143?style=flat-square&logo=linux&logoColor=white)
 
-[testo](bocchi.gif)
+(bocchi.gif)
 
 
 
