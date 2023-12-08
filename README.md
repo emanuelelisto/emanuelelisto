@@ -22,12 +22,14 @@ CS student at [University of Catania](unict.it)
 </a></p>
 
 ### Socials
+<div class="text-center">
 <a href="https://twitter.com/Lambda_H3m4">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="45" height="45"/>
 </a>
 <a class="text-decoration-none" href="https://discord.com/channels/@hem4_">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="c" width="45" height="45"/>
 </a>
+</div>
 
 
 
