@@ -28,7 +28,7 @@ CS student at 🐘[University of Catania](https://www.unict.it/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 </a></p>
 
-### Skills and tools that i'm learning
+### Skills and tools that I'm learning
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
