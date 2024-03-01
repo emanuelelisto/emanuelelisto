@@ -4,7 +4,7 @@ Hi 👋 I'm Hema
 CS student at 🐘[University of Catania](https://www.unict.it/)
 ----------
 
-* 🌍  I'm based in 🌋Catania, Sicily
+* 🌍  I'm based in 🌋Catania, Italy
 * 🧠  I'm learning cryptography, OS Development, and web development 
 * 🤝  I'm open to collaborating on cybersecurity project and game development
 * 🔓  🄯pen Source enthusiast
