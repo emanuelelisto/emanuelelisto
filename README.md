@@ -3,12 +3,7 @@ Hi 👋 I'm Hema
 
 CS student at 🐘[University of Catania](https://www.unict.it/)
 ----------
-
-* 🌍  I'm based in 🌋Catania, Italy
-* 🧠  I'm learning cryptography, OS Development, and web development 
-* 🤝  I'm open to collaborating on cybersecurity project and game development
-* 🔓  🄯pen Source enthusiast
-
+🔓  🄯pen Source enthusiast
 ### Skills
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
@@ -37,7 +32,5 @@ CS student at 🐘[University of Catania](https://www.unict.it/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 </a></p>
 
-### Support Me
-<a href="https://www.ko-fi.com/hema988967"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 
