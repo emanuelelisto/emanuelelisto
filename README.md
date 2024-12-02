@@ -1,4 +1,4 @@
-Hi 👋 I'm Hema
+Hi I'm Hema
 ===============================
 ### Tools 
 <p align="left">
